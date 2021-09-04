@@ -23,7 +23,6 @@ allure {
 
 apply plugin: "io.qameta.allure"
 
-// ничего другого перед плагинами нельзя писать
 group 'org.example'
 version '1.0-SNAPSHOT'
 
